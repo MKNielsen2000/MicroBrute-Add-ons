@@ -1,6 +1,9 @@
 # MicroBrute White Noise Add-on
 A tiny board that adds white noise to the Microbrute. 
 
+![alt text](https://github.com/gilberte666/MicroBrute-White-Noise-Add-on/blob/master/board%20rev1%20back.jpg?raw=true "Back of board rev 1")
+![alt text](https://github.com/gilberte666/MicroBrute-White-Noise-Add-on/blob/master/board%20rev1%20front.jpg?raw=true "Front of board rev 1")
+
 Does what it says on the tin.
 
 ####Connections
