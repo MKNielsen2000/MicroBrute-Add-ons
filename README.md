@@ -17,4 +17,7 @@ Based on a circuit from [Thomas Henry's noise generator cookbook](http://www.mag
 
 Made possible thanks to [Yves Usson's publishing of all schematics related to the Microbrute.](http://hackabrute.yusynth.net/index_en.php)
 
+#####STATUS
+Boards done, need testing. 
+
  
