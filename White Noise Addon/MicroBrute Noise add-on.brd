@@ -160,6 +160,8 @@ Made in København, Denmark</text>
 <text x="15.1" y="24.6" size="0.4064" layer="26" rot="MR270">Shoutouts: Yves Usson, 
 Thomas Henry, Walter 
 G. Jung, Olivier Gillet. </text>
+<circle x="2.1" y="2.4" radius="1.334165625" width="0.1" layer="22"/>
+<text x="2.96" y="3.735" size="0.6096" layer="26" rot="MR0">GND</text>
 </plain>
 <libraries>
 <library name="SparkFun-Passives">
@@ -583,6 +585,7 @@ design rules under a new name.</description>
 <element name="+12_VOLT" library="SparkFun-Passives" package="PAD.03X.05" value="TEST-POINT3X5" x="1.77" y="24.1"/>
 <element name="D2" library="diode" package="SOD523" value="PMEG2010AEB" x="8.2" y="24" rot="MR0"/>
 <element name="D1" library="diode" package="SOD523" value="PMEG2010AEB" x="4.8" y="24.1" rot="MR0"/>
+<element name="GND5" library="SparkFun-Passives" package="PAD.03X.05" value="TEST-POINT3X5" x="2.1" y="2.5" rot="MR0"/>
 </elements>
 <signals>
 <signal name="N$2">
@@ -762,13 +765,19 @@ design rules under a new name.</description>
 <wire x1="4.4704" y1="5.08" x2="5.4864" y2="4.064" width="0.2032" layer="16"/>
 <wire x1="4.4704" y1="7.3152" x2="4.4704" y2="5.08" width="0.2032" layer="16"/>
 <wire x1="6.7056" y1="9.5504" x2="4.4704" y2="7.3152" width="0.2032" layer="16"/>
-<wire x1="6.7056" y1="10.7696" x2="6.7056" y2="9.5504" width="0.2032" layer="16"/>
+<wire x1="6.7056" y1="10.5664" x2="6.7056" y2="9.5504" width="0.2032" layer="16"/>
 <wire x1="6.7056" y1="15.0368" x2="6.7056" y2="10.7696" width="0.2032" layer="1"/>
 <wire x1="7.7216" y1="16.0528" x2="6.7056" y2="15.0368" width="0.2032" layer="1"/>
 <wire x1="7.7216" y1="17.4752" x2="7.7216" y2="16.0528" width="0.2032" layer="1"/>
 <wire x1="8.128" y1="17.8816" x2="7.7216" y2="17.4752" width="0.2032" layer="1"/>
 <wire x1="11.176" y1="6.096" x2="11.29" y2="5.9" width="0.2032" layer="16"/>
 <via x="6.7056" y="10.7696" extent="1-16" drill="0.508"/>
+<contactref element="GND5" pad="P$1"/>
+<wire x1="2.2352" y1="7.5184" x2="2.2352" y2="2.6416" width="0.2032" layer="16"/>
+<wire x1="5.2832" y1="10.5664" x2="2.2352" y2="7.5184" width="0.2032" layer="16"/>
+<wire x1="6.7056" y1="10.5664" x2="5.2832" y2="10.5664" width="0.2032" layer="16"/>
+<wire x1="2.2352" y1="2.6416" x2="2.1" y2="2.5" width="0.2032" layer="16"/>
+<wire x1="6.7056" y1="10.5664" x2="6.7056" y2="10.7696" width="0.2032" layer="16"/>
 </signal>
 <signal name="VEE">
 <contactref element="C1" pad="-"/>
@@ -913,6 +922,8 @@ design rules under a new name.</description>
 <vertex x="16.1" y="25.5"/>
 <vertex x="0" y="25.5"/>
 </polygon>
+<wire x1="5.2832" y1="4.8768" x2="5.406396875" y2="4.999996875" width="0.2032" layer="16"/>
+<wire x1="6.5024" y1="8.5344" x2="6.45520625" y2="8.581590625" width="0.2032" layer="16"/>
 </signal>
 <signal name="N$8">
 <contactref element="D1" pad="A"/>
