@@ -1,5 +1,9 @@
 #Microbrute addon boards / hacks
 ---
+
+A bunch of boards for hacking / modifying your MicroBrute:
+* White Noise Add-on
+* Buffered output add-on
 ## White Noise Add-on
 A tiny board that adds white noise to the Microbrute. 
 
