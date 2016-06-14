@@ -13,6 +13,8 @@ Power:
 * Connect -12v to tp71 on the Microbrute
 * Connect GND to tp72 on the Microbrute
 
+![alt text](https://github.com/gilberte666/MicroBrute-White-Noise-Add-on/blob/master/powerconnections.jpg?raw=true "power connections")
+
 White noise:
 * Connect OUT to tp47 (external audio in) on the Microbrute
 
