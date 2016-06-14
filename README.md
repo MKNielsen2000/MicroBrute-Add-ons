@@ -1,4 +1,6 @@
-# MicroBrute White Noise Add-on
+#Microbrute addon boards / hacks
+---
+## White Noise Add-on
 A tiny board that adds white noise to the Microbrute. 
 
 ![alt text](https://github.com/gilberte666/MicroBrute-White-Noise-Add-on/blob/master/board%20rev1%20back.jpg?raw=true "Back of board rev 1")
@@ -27,3 +29,12 @@ White noise:
 
 ![alt text](https://github.com/gilberte666/MicroBrute-White-Noise-Add-on/blob/master/tp47.jpg?raw=true "power connections")
  
+ 
+## Buffered output Add-on
+There are four waveform output hacks possible on the Microbrute but I've always thought it a damn shame that they get wired directly to output jacks with no protection and buffering which causes all sorts of issues. This boards fixes that problem. You mount this on one of the output jacks and wire three others to this board including the four waveforms. Pretty suave. 
+
+![alt text](https://github.com/gilberte666/MicroBrute-White-Noise-Add-on/blob/master/outputrev1.jpg?raw=true "Back of board rev 1")
+![alt text](https://github.com/gilberte666/MicroBrute-White-Noise-Add-on/blob/master/outputrev1-2.jpg?raw=true "Front of board rev 1")
+
+#####STATUS
+Boards done, need testing. 
