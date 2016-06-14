@@ -6,6 +6,13 @@ A tiny board that adds white noise to the Microbrute.
 
 Does what it says on the tin.
 
+Based on a circuit from [Thomas Henry's noise generator cookbook](http://www.magsmoke.com/thomas_henry_books.asp).
+
+Made possible thanks to [Yves Usson's publishing of all schematics related to the Microbrute.](http://hackabrute.yusynth.net/index_en.php)
+
+#####STATUS
+Boards done, need testing. 
+
 ####Connections
 
 Power:
@@ -19,12 +26,4 @@ White noise:
 * Connect OUT on white noise board to tp47 (external audio in) on the Microbrute
 
 ![alt text](https://github.com/gilberte666/MicroBrute-White-Noise-Add-on/blob/master/tp47.jpg?raw=true "power connections")
-
-Based on a circuit from [Thomas Henry's noise generator cookbook](http://www.magsmoke.com/thomas_henry_books.asp).
-
-Made possible thanks to [Yves Usson's publishing of all schematics related to the Microbrute.](http://hackabrute.yusynth.net/index_en.php)
-
-#####STATUS
-Boards done, need testing. 
-
  
