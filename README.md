@@ -16,7 +16,9 @@ Power:
 ![alt text](https://github.com/gilberte666/MicroBrute-White-Noise-Add-on/blob/master/powerconnections.jpg?raw=true "power connections")
 
 White noise:
-* Connect OUT to tp47 (external audio in) on the Microbrute
+* Connect OUT on white noise board to tp47 (external audio in) on the Microbrute
+
+![alt text](https://github.com/gilberte666/MicroBrute-White-Noise-Add-on/blob/master/tp47.jpg?raw=true "power connections")
 
 Based on a circuit from [Thomas Henry's noise generator cookbook](http://www.magsmoke.com/thomas_henry_books.asp).
 
