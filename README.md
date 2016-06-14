@@ -31,7 +31,7 @@ White noise:
  
  
 ## Buffered output Add-on
-There are four waveform output hacks possible on the Microbrute but I've always thought it a damn shame that they get wired directly to output jacks with no protection and buffering which causes all sorts of issues. This boards fixes that problem. You mount this on one of the output jacks and wire three others to this board including the four waveforms. Pretty suave. 
+There are four waveform output hacks possible on the Microbrute but I've always thought it a damn shame that they get wired directly to output jacks with no protection and buffering which causes all sorts of issues. This boards fixes that problem. You mount this on one of the output jacks and wire three others to this board including the four waveforms. You can either pull the power from the above mentioned test points or daisy chain the power with the white noise generator. Pretty suave. 
 
 ![alt text](https://github.com/gilberte666/MicroBrute-White-Noise-Add-on/blob/master/outputrev1.jpg?raw=true "Back of board rev 1")
 ![alt text](https://github.com/gilberte666/MicroBrute-White-Noise-Add-on/blob/master/outputrev1-2.jpg?raw=true "Front of board rev 1")
