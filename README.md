@@ -5,7 +5,7 @@ A bunch of boards for hacking / modifying the MicroBrute:
 * White Noise Add-on
 * Buffered output add-on
 
-'''DISCLAIMER: These hacks/modifications are potentially dangerous for you and/or your synth. They are only for people with advanced electronics skills. I will not take any responsibility for any damage to your synth or yourself and understand that once you open your MicroBrute you lose your warranty.'''
+**DISCLAIMER: These hacks/modifications are potentially dangerous for you and/or your synth. They are only for people with advanced electronics skills. I will not take any responsibility for any damage to your synth or yourself and understand that once you open your MicroBrute you lose your warranty.**
 
 ## White Noise Add-on
 A tiny board that adds white noise to the Microbrute. 
